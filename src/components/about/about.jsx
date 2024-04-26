@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/或者这个.jpg";
+import AboutImg from "../../assets/用这个.jpg";
 import CV from "../../assets/Jiabei_Xu.pdf";
 import Info from "./Info";
 
